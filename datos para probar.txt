@@ -1,0 +1,89 @@
+//Con estos datos se podrá probar la aplicacion
+
++ Opcion 1 - registrar usuario
+Nombre: Santiago Vargas
+Correo: s.vargasp1@uniandes.edu.co
+
++ Opcion 1 
+Nombre: Juan Esteban Cuellar
+Correo: j.cuellara@uniandes.edu.co
+
++ Opcion 1 
+Nombre: Marilyn Joven
+Correo: m.joven@uniandes.edu.co
+
+
++ Opcion 2 - crear proyecto
+Nombe proyecto: Proyecto De Diseño y Programacion
+Dueño: Marilyn Joven
+Descripción: Proyecto restaurante
+Tipos de actividades: Diseno,Implementacion,Pruebas
+
++ Opcion 4 - agregar tareas
+Nombre de la Tarea: Retoques
+Descripcion: Realizar cuando se tenga tiempo
+Importancia: Media
+Proyecto:Proyecto De Diseño y Programacion
+
++ Opcion 4 - agregar tareas - crear tareas
+Nombre de la Tarea: Organizar 
+Descripcion: Ser estrictos con la realización de esta
+Importancia: Alta
+Proyecto:Proyecto De Diseño y Programacion
+
++ Opcion 4 - agregar tareas - crear tareas
+Nombre de la Tarea: Sintonizar
+Descripcion: Verificar que todo este en la misma onda
+Importancia: Baja
+Proyecto:Proyecto De Diseño y Programacion
+
++ Opcion 4 - agregar tareas - crear paquetes
+Nombre del Paquete: Tareas prontas
+Descripcion: Estas son tareas a realizar por el mismo participante
+Proyecto: Proyecto De Diseño y Programacion
+
++ Opcion 5 - administrar tareas - 
+Tarea: Sintonizar
+Verificar Tarea
+Elimnar
+
++ Opcion 5 - administrar tareas
+Tarea: Organizar
+Responsable: Santiago Vargas
+Fecha Estimada: 02-21-2022
+
++ Opcion 7 - registrar actividad
+Nombre proyecto: Proyecto De Diseño y Programacion
+Nombre actividad: Actividad Fuera De Tiempo;
+Participante: Juan Esteban Cuellar
+Descripcion: Actividad de implementacion
+Tipo: 2
+Fecha inicio: 01-03-2022
+Fecha fin: 02-03-2022
+Hora Inicio: 20:40
+Hora Fin: 01:30
+Tarea: Retoques
+
++ Opcion 7
+Nombre proyecto: Proyecto De Diseño y Programacion
+Nombre actividad: Actividad Fuera De Tiempo 2;
+Participante: Santiago Vargas
+Descripcion: Actividad de diseño
+Tipo: 1
+Fecha inicio: 05-03-2022
+Fecha fin: 05-03-2022
+Hora Inicio: 09:35
+Hora Fin: 13:05
+Tarea: Organizar
+
++ Opcion 9 - finalizar proyecto
+Nombre proyecto: Proyecto De Diseño y Programacion
+
++ Opcion 10 - generar reporte participante
+Participante: Juan Esteban Cuellar
+
++ Opcion 10 
+Participante: Santiago Vargas
+
++ Opcion 10
+Participante: Juan Esteban Cuellar
